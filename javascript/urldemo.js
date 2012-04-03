@@ -1,6 +1,6 @@
 /**
  * Google URL Shortener API Example
- * Tom McFarlin / tom@tommcfarlin.com / January 15, 2010
+ * Tom McFarlin / tom@tommcfarlin.com / 2010 - 2012
  *
  * Simple demonstration of how to use the the Google URL API shortener.
  */
